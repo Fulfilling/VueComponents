@@ -19,7 +19,7 @@
 </template>
 
 <script>
-  import EmailValidateComponent from './emailValidate.vue';
+  import EmailValidateComponent from './emailValidate.vue'
 
   export default {
     components: { EmailValidateComponent },
