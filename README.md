@@ -4,4 +4,4 @@ A set of components Vue.js for consum of features Fulfilling
 
 ## Usage
 
-* [Email Validate](https://github.com/Fulfilling/VueComponents/master/usage-email-validate.md)
+* [Email Validate](https://github.com/Fulfilling/VueComponents/blob/master/usage-email-validate.md)
